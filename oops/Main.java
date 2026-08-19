@@ -15,7 +15,7 @@ class Order {
 public class Main {
     static void main(){
         Order order = new Order(1);
-        System.out.println("Order is : " order.orderId);
+        System.out.println("Order is : " + order.orderId);
 
     }
 }
