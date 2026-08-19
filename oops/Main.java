@@ -6,7 +6,7 @@ class Order {
         this.order = orderId;
     }
 
-    public Oder(int orderId, String orderStatus){
+    public Order(int orderId, String orderStatus){
         this.orderId = orderId;
         this.orderStatus = orderStatus;
     }
